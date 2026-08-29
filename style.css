@@ -1,0 +1,16 @@
+img {
+    width: 250px;
+}
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background: #0B1120;
+    color: #FFFFFF;
+}
+.profile {
+   max-width: 100%;
+}
+
+a{
+    color:#E2E8F0
+}
